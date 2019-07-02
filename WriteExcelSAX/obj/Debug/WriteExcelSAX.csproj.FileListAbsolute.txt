@@ -1,0 +1,9 @@
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\bin\Debug\WriteExcelSAX.exe.config
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\bin\Debug\WriteExcelSAX.exe
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\bin\Debug\WriteExcelSAX.pdb
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\obj\Debug\WriteExcelSAX.csprojAssemblyReference.cache
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\obj\Debug\WriteExcelSAX.csproj.CoreCompileInputs.cache
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\obj\Debug\WriteExcelSAX.csproj.CopyComplete
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\obj\Debug\WriteExcelSAX.exe
+C:\Users\phuong_nt\source\repos\WriteExcelSAX\WriteExcelSAX\obj\Debug\WriteExcelSAX.pdb
